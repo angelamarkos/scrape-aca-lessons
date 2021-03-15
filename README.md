@@ -34,5 +34,5 @@ Scrape following information for every lesson and collect them in list:
 
 2.Second Part of homework for second week
 
-2.1 Save scraped information in sqllight database.
+2.1 Save scraped information in sqllight database. <br>
 2.2 write function that checks ever week if there is new lessons or not and send new lessons information to your personal(or test) email.
