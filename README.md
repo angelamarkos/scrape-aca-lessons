@@ -32,6 +32,8 @@ Scrape following information for every lesson and collect them in list:
 ]
 ```
 
+course_id is last part of course url without .html  <br>
+
 2.Second Part of homework for second week
 
 2.1 Save scraped information in sqllight database. <br>
